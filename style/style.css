@@ -124,7 +124,6 @@ hr {
 
 .ratings {
     color: #A2A2A2;
-    margin-left: 10px;
 }
 
 .fa-star.filled {
@@ -133,6 +132,14 @@ hr {
 
 .fa-star.empty {
     color: #AEAEAE;
+}
+
+.course-duration {
+    background-color: #ec374c3c;
+    color: #FF4A60;
+    padding: 5px;
+    font-size: 14px;
+    border-radius: 15px;
 }
 
 /* --------------------------------------------Media Queries */
